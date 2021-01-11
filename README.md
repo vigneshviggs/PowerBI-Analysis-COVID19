@@ -4,7 +4,7 @@ Dataset is obtained from Data.World
 
 ## URL: https://data.world/covid-19-data-resource-hub/covid-19-case-counts
 
-###DESCRIPTION
+### DESCRIPTION
 A global time series of case and death data.
 
 ### SUMMARY
