@@ -1,8 +1,6 @@
-# PowerBI-Analysis-COVID19
-
 Dataset is obtained from Data.World 
 
-## URL: https://data.world/covid-19-data-resource-hub/covid-19-case-counts
+### URL: https://data.world/covid-19-data-resource-hub/covid-19-case-counts
 
 ### DESCRIPTION
 A global time series of case and death data.
